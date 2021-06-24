@@ -3,9 +3,9 @@
 The files in this repository were used to configure the network depicted below.
 
 
-  - [Cloud Network Diagram](https://github.com/hart2533/ELK-Stack-Project/blob/main/Diagrams/Cloud-Final-Diagram.png)
+  - [Cloud Network Diagram](https://github.com/hart2533/ELK-Stack-Project/blob/main/Diagrams/Final-Cloud-Diagram.png)
 
-  - [Cloud Diagram with ELK](https://github.com/hart2533/ELK-Stack-Project/blob/main/Diagrams/ELK-Final-Diagram.png)
+  - [Cloud Diagram with ELK](https://github.com/hart2533/ELK-Stack-Project/blob/main/Diagrams/Final-ELK-Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Beat file may be used to install only certain pieces of it, such as Filebeat.
 
