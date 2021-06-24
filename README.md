@@ -97,9 +97,10 @@ This ELK server is configured to monitor the following machines:
 We have installed the following Beats on these machines:
 
 
-- [Filebeat](https://github.com/hart2533/ELK-Stack-Project/blob/main/Ansible/Filebeat/filebeat-playbook.yml)
+- [Filebeat-Playbook](https://github.com/hart2533/ELK-Stack-Project/blob/main/Ansible/Filebeat/filebeat-playbook.yml)
+  - [Filebeat-Configuration](https://github.com/hart2533/ELK-Stack-Project/blob/main/Linux/Filebeat/filebeat-configuration.yml)
 - [Metricbeat-Playbook](https://github.com/hart2533/ELK-Stack-Project/blob/main/Ansible/Metricbeat/metricbeat-playbook.yml)
-  - [Metricbeat-Configuration](https://github.com/hart2533/ELK-Stack-Project/blob/main/Ansible/Metricbeat/metricbeat-configuration.yml)
+  - [Metricbeat-Configuration](https://github.com/hart2533/ELK-Stack-Project/blob/main/Linux/Metricbeat/metricbeat-configuration.yml)
 
 
 These Beats allow us to collect the following information from each machine:
