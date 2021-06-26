@@ -1,6 +1,6 @@
 ---
 - name: installing and launching filebeat
-  hosts: TODO
+  hosts: RedAdmin
   become: yes
   tasks:
 
