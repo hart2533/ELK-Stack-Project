@@ -151,13 +151,13 @@ SSH into the control node and follow the steps below:
 - cd /etc/ansible
   - Move into the correct location.
 - nano ansible.cfg
-  - add host username to the correct location.
+  - add host username to the file.
   - Ctrl + x to exit the file.
 - nano hosts
   - add the machine, ip address and the ansible_python-interpreter=/usr/bin/python3 to the hosts.
   - Ctrl + x to exit the file.
 - nano install_elk.yml 
-  - Add your machine name to the correct location.
+  - Add machine IP to file.
   - Ctrl + x to exit the file.
 - To run the playbook use the following command: 
   - ansible-playbook install-elk  (ansible-playbook <yml filename>)
